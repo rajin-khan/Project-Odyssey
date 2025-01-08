@@ -20,9 +20,9 @@ This repository is my journey to:
 
 ## **📅 Project Roadmap**
 
-### **January: Publish Accessibility App**
+### **January: Publish Capstone App ~ [TapSense]((https://github.com/rajin-khan/TapSense))**
 
-- **Objective:** Polish and publish my capstone project app (TapSense) to the App Store and Google Play Store.
+- **Objective:** Polish and publish my capstone project app, [**TapSense**](https://github.com/rajin-khan/TapSense) to the App Store and Google Play Store.
 - **Skills Covered:** Flutter, Dart, App Store/Play Store Publishing.
 - **Outcome:** A published app demonstrating my commitment to accessibility and real-world impact.
 
