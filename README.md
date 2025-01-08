@@ -171,4 +171,4 @@ health tracking functionality and Firebase integration.
 
 ---
 
-**Stay tuned for updates as I continue my journey!
+**Stay tuned for updates as I continue my journey!**
