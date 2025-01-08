@@ -2,7 +2,7 @@
 
 ![Repo banner](https://t4.ftcdn.net/jpg/09/61/71/25/360_F_961712520_dtIc7AQbfwBVb3uc02q9pBlI09Xl3vnv.jpg)
 
-# **Project: Odyssey**
+# **PROJECT: ODYSSEY**
 
 ##### A clear and actionable plan to build essential skills and projects that showcase my strengths in web development and machine learning.
 
