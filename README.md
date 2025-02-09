@@ -20,7 +20,7 @@ This repository is my journey to:
 
 ## **📅 Project Roadmap**
 
-### **January: Publish Capstone App ~ [TapSense]((https://github.com/rajin-khan/TapSense))**
+### **January: Publish Capstone App ~ [TapSense]((https://github.com/rajin-khan/TapSense)) (Awaiting beta testing)**
 
 - **Objective:** Polish and publish my capstone project app, [**TapSense**](https://github.com/rajin-khan/TapSense) to the App Store and Google Play Store.
 - **Skills Covered:** Flutter, Dart, App Store/Play Store Publishing.
@@ -30,10 +30,10 @@ This repository is my journey to:
 |----------------------|------------------------------------------------------------------------------------------------|
 | **Learning Outcome** | Learn the complete app publishing lifecycle, from debugging to launching on app stores.        |
 
-### **February: Personal Portfolio Website**
+### **February: Personal Portfolio Website (Complete)**
 
 - **Objective:** Build a portfolio website to showcase my skills and projects.
-- **Skills Covered:** HTML, CSS, JavaScript, GitHub Pages.
+- **Skills Covered:** A frontend, other resources, blogs, AI, GitHub Pages, Vercel.
 - **Outcome:** A professional online presence for recruiters.
 
 | **Technology Used** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
