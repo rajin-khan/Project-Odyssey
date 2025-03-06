@@ -40,7 +40,18 @@ This repository is my journey to:
 |----------------------|------------------------------------------------------------------------------------------------|
 | **Learning Outcome** | Build a responsive, visually appealing personal website to showcase my portfolio.            |
 
-### **March: Sentiment Analysis Tool for Movie Reviews**
+### **March: Real-time Drowsiness Detection System**
+
+- **Objective:** Develop a real-time drowsiness detection system to enhance road safety by analyzing drivers' eye states and facial landmarks.
+- **Skills Covered:** Python, PyTorch, OpenCV, YOLOv5, Deep Learning, Computer Vision.
+- **Outcome:** A robust AI-based system capable of alerting drivers in drowsy states, reducing potential accidents.
+
+| **Technology Used** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge) |
+|----------------------|------------------------------------------------------------------------------------------------|
+| **Key Features**     | Real-time detection, alert system, custom training support, CPU/GPU compatibility.               |
+| **Learning Outcome** | Gain expertise in real-time computer vision applications using PyTorch and YOLOv5.              |
+
+### **April: Sentiment Analysis Tool for Movie Reviews**
 
 - **Objective:** Develop a sentiment analysis tool for analyzing movie reviews.
 - **Skills Covered:** Python, Pandas, Scikit-learn, NLTK.
@@ -50,15 +61,6 @@ This repository is my journey to:
 |----------------------|------------------------------------------------------------------------------------------------|
 | **Learning Outcome** | Gain hands-on experience in NLP and sentiment analysis using Python libraries.                 |
 
-### **April: Blog Website with Backend**
-
-- **Objective:** Create a blog website with a fully functional backend.
-- **Skills Covered:** Flask/Django, HTML, CSS, SQLite.
-- **Outcome:** A full-stack web application with CRUD functionality and user authentication.
-
-| **Technology Used** | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) |
-|----------------------|------------------------------------------------------------------------------------------------|
-| **Learning Outcome** | Understand back-end development concepts and how to integrate them with front-end applications. |
 
 ### **May: To-Do App with Accessibility Features**
 
@@ -91,7 +93,6 @@ This repository is my journey to:
 | **Learning Outcome** | Learn to develop a scalable web application with database integration.                         |
 
 ### **August: Virtual Assistant with Speech Recognition**
-
 - **Objective:** Build a basic voice-controlled virtual assistant.
 - **Skills Covered:** Python, SpeechRecognition, pyttsx3, OpenAI GPT (optional).
 - **Outcome:** An AI-powered voice assistant capable of handling user commands.
