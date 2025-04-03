@@ -51,7 +51,18 @@ This repository is my journey to:
 | **Key Features**     | Real-time detection, alert system, custom training support, CPU/GPU compatibility.               |
 | **Learning Outcome** | Gain expertise in real-time computer vision applications using PyTorch and YOLOv5.              |
 
-### **April: Sentiment Analysis Tool for Movie Reviews**
+### **April: Tessro – Real-time Synchronized Video Playback Platform (with Live Chatting)**
+
+- **Objective:** Build a platform that enables real-time synchronized video playback with integrated chat and participant features for remote group watching.
+- **Skills Covered:** React, Tailwind CSS, Node.js, Express, Socket.IO, WebRTC (planned), Full-Stack Development.
+- **Outcome:** A sleek, modern web app allowing users to create or join private sessions and watch local videos together in perfect sync across devices.
+
+| **Technology Used** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Key Features**     | Peer-to-peer video sync, real-time chat, participant list, responsive mobile UI, nickname & avatar support, session management, file hash verification for consistency.                                          |
+| **Learning Outcome** | Master full-stack development with real-time web technologies, improve UI/UX design skills, and gain experience in deploying production-ready collaborative apps.                                               |
+
+### **May: Sentiment Analysis Tool for Movie Reviews**
 
 - **Objective:** Develop a sentiment analysis tool for analyzing movie reviews.
 - **Skills Covered:** Python, Pandas, Scikit-learn, NLTK.
@@ -62,7 +73,7 @@ This repository is my journey to:
 | **Learning Outcome** | Gain hands-on experience in NLP and sentiment analysis using Python libraries.                 |
 
 
-### **May: To-Do App with Accessibility Features**
+### **June: To-Do App with Accessibility Features**
 
 - **Objective:** Create a to-do app focusing on accessibility.
 - **Skills Covered:** Flutter, Dart.
@@ -72,7 +83,7 @@ This repository is my journey to:
 |----------------------|------------------------------------------------------------------------------------------------|
 | **Learning Outcome** | Learn how to integrate accessibility features into a mobile app.                                |
 
-### **June: Image Classification with Neural Networks**
+### **July: Image Classification with Neural Networks**
 
 - **Objective:** Train a neural network to classify images into categories.
 - **Skills Covered:** Python, TensorFlow/Keras, NumPy, Matplotlib.
@@ -82,7 +93,7 @@ This repository is my journey to:
 |----------------------|------------------------------------------------------------------------------------------------|
 | **Learning Outcome** | Understand the basics of neural networks and how to implement them for image classification.    |
 
-### **July: E-Commerce Website**
+### **August: E-Commerce Website**
 
 - **Objective:** Build a simple e-commerce website for managing products and orders.
 - **Skills Covered:** Flask/Django, HTML, CSS, JavaScript.
@@ -92,7 +103,7 @@ This repository is my journey to:
 |----------------------|------------------------------------------------------------------------------------------------|
 | **Learning Outcome** | Learn to develop a scalable web application with database integration.                         |
 
-### **August: Virtual Assistant with Speech Recognition**
+### **September: Virtual Assistant with Speech Recognition**
 - **Objective:** Build a basic voice-controlled virtual assistant.
 - **Skills Covered:** Python, SpeechRecognition, pyttsx3, OpenAI GPT (optional).
 - **Outcome:** An AI-powered voice assistant capable of handling user commands.
@@ -100,16 +111,6 @@ This repository is my journey to:
 | **Technology Used** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SpeechRecognition](https://img.shields.io/badge/SpeechRecognition-lightgrey?style=for-the-badge) |
 |----------------------|------------------------------------------------------------------------------------------------|
 | **Learning Outcome** | Build a conversational AI system and understand speech-to-text integration.                    |
-
-### **September: Real-Time Object Detection**
-
-- **Objective:** Implement object detection using computer vision.
-- **Skills Covered:** Python, OpenCV, TensorFlow.
-- **Outcome:** A real-time object detection system for video streams.
-
-| **Technology Used** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
-|----------------------|------------------------------------------------------------------------------------------------|
-| **Learning Outcome** | Learn object detection techniques using pre-trained models like YOLO.                          |
 
 ### **October: Personal Finance Dashboard**
 
