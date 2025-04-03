@@ -20,6 +20,8 @@ This repository is my journey to:
 
 ## **📅 Project Roadmap**
 
+---
+
 ### **January: Publish Capstone App ~ [TapSense]((https://github.com/rajin-khan/TapSense)) (Awaiting beta testing)**
 
 - **Objective:** Polish and publish my capstone project app, [**TapSense**](https://github.com/rajin-khan/TapSense) to the App Store and Google Play Store.
@@ -30,15 +32,19 @@ This repository is my journey to:
 |----------------------|------------------------------------------------------------------------------------------------|
 | **Learning Outcome** | Learn the complete app publishing lifecycle, from debugging to launching on app stores.        |
 
+---
+
 ### **February: Personal Portfolio Website (Complete)**
 
 - **Objective:** Build a portfolio website to showcase my skills and projects.
-- **Skills Covered:** A frontend, other resources, blogs, AI, GitHub Pages, Vercel.
-- **Outcome:** A professional online presence for recruiters.
+- **Skills Covered:** Astro framework, frontend development, blogging system, deployment on GitHub Pages and Vercel.
+- **Outcome:** A professional online presence for recruiters with a minimal, fast, and modern static site.
 
-| **Technology Used** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Technology Used** | ![Astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 |----------------------|------------------------------------------------------------------------------------------------|
-| **Learning Outcome** | Build a responsive, visually appealing personal website to showcase my portfolio.            |
+| **Learning Outcome** | Build a responsive, blazing-fast portfolio site using Astro and deploy it professionally.      |
+
+---
 
 ### **March: Real-time Drowsiness Detection System**
 
@@ -51,7 +57,9 @@ This repository is my journey to:
 | **Key Features**     | Real-time detection, alert system, custom training support, CPU/GPU compatibility.               |
 | **Learning Outcome** | Gain expertise in real-time computer vision applications using PyTorch and YOLOv5.              |
 
-### **April: Tessro – Real-time Synchronized Video Playback Platform (with Live Chatting)**
+---
+
+### **April: Real-time Synchronized Video Playback Platform (with Live Chatting)**
 
 - **Objective:** Build a platform that enables real-time synchronized video playback with integrated chat and participant features for remote group watching.
 - **Skills Covered:** React, Tailwind CSS, Node.js, Express, Socket.IO, WebRTC (planned), Full-Stack Development.
@@ -61,6 +69,8 @@ This repository is my journey to:
 |----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Key Features**     | Peer-to-peer video sync, real-time chat, participant list, responsive mobile UI, nickname & avatar support, session management, file hash verification for consistency.                                          |
 | **Learning Outcome** | Master full-stack development with real-time web technologies, improve UI/UX design skills, and gain experience in deploying production-ready collaborative apps.                                               |
+
+---
 
 ### **May: Sentiment Analysis Tool for Movie Reviews**
 
@@ -73,6 +83,8 @@ This repository is my journey to:
 | **Learning Outcome** | Gain hands-on experience in NLP and sentiment analysis using Python libraries.                 |
 
 
+---
+
 ### **June: To-Do App with Accessibility Features**
 
 - **Objective:** Create a to-do app focusing on accessibility.
@@ -82,6 +94,8 @@ This repository is my journey to:
 | **Technology Used** | ![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) |
 |----------------------|------------------------------------------------------------------------------------------------|
 | **Learning Outcome** | Learn how to integrate accessibility features into a mobile app.                                |
+
+---
 
 ### **July: Image Classification with Neural Networks**
 
@@ -93,6 +107,8 @@ This repository is my journey to:
 |----------------------|------------------------------------------------------------------------------------------------|
 | **Learning Outcome** | Understand the basics of neural networks and how to implement them for image classification.    |
 
+---
+
 ### **August: E-Commerce Website**
 
 - **Objective:** Build a simple e-commerce website for managing products and orders.
@@ -103,6 +119,8 @@ This repository is my journey to:
 |----------------------|------------------------------------------------------------------------------------------------|
 | **Learning Outcome** | Learn to develop a scalable web application with database integration.                         |
 
+---
+
 ### **September: Virtual Assistant with Speech Recognition**
 - **Objective:** Build a basic voice-controlled virtual assistant.
 - **Skills Covered:** Python, SpeechRecognition, pyttsx3, OpenAI GPT (optional).
@@ -111,6 +129,8 @@ This repository is my journey to:
 | **Technology Used** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SpeechRecognition](https://img.shields.io/badge/SpeechRecognition-lightgrey?style=for-the-badge) |
 |----------------------|------------------------------------------------------------------------------------------------|
 | **Learning Outcome** | Build a conversational AI system and understand speech-to-text integration.                    |
+
+---
 
 ### **October: Personal Finance Dashboard**
 
@@ -121,6 +141,8 @@ This repository is my journey to:
 | **Technology Used** | ![Dash](https://img.shields.io/badge/Dash-0789fa?style=for-the-badge&logo=plotly&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) |
 |----------------------|------------------------------------------------------------------------------------------------|
 | **Learning Outcome** | Learn to create interactive dashboards and visualize data effectively.                         |
+
+---
 
 ### **November: Health Monitoring App**
 
@@ -134,6 +156,8 @@ health tracking functionality and Firebase integration.
 |----------------------|------------------------------------------------------------------------------------------------|
 | **Learning Outcome** | Learn to integrate Firebase for data storage and build health-related mobile apps.             |
 
+---
+
 ### **December: Machine Learning Model Deployment**
 
 - **Objective:** Deploy a machine learning model as a web service.
@@ -143,6 +167,8 @@ health tracking functionality and Firebase integration.
 | **Technology Used** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) |
 |----------------------|------------------------------------------------------------------------------------------------|
 | **Learning Outcome** | Learn how to containerize a machine learning model and deploy it to the cloud.                  |
+
+---
 
 ---
 
@@ -156,20 +182,20 @@ health tracking functionality and Firebase integration.
 
 ## **📈 Progress Tracker**
 
-| **Month**   | **Goal**                          | **Status**        |
-|-------------|-----------------------------------|-------------------|
-| **January** | Publish Accessibility App         | In Progress       |
-| **February**| Personal Portfolio Website        | Not Started       |
-| **March**   | Sentiment Analysis Tool           | Not Started       |
-| **April**   | Blog Website with Backend         | Not Started       |
-| **May**     | To-Do App with Accessibility      | Not Started       |
-| **June**    | Image Classification with Neural Networks | Not Started  |
-| **July**    | E-Commerce Website                | Not Started       |
-| **August**  | Virtual Assistant with Speech Recognition | Not Started  |
-| **September**| Real-Time Object Detection       | Not Started       |
-| **October** | Personal Finance Dashboard        | Not Started       |
-| **November**| Health Monitoring App             | Not Started       |
-| **December**| Machine Learning Model Deployment | Not Started       |
+| **Month**     | **Goal**                                               | **Status**        |
+|---------------|--------------------------------------------------------|-------------------|
+| **January**   | Publish Capstone App – *TapSense*                      | 🟡 In Progress     |
+| **February**  | Personal Portfolio Website                             | ✅ Complete        |
+| **March**     | Real-time Drowsiness Detection System - *DOZR*         | ✅ Complete        |
+| **April**     | Synchronized Video Playback Platform - *Tessro*        | ✅ Complete        |
+| **May**       | Sentiment Analysis Tool for Movie Reviews              | ⚪ Not Started     |
+| **June**      | To-Do App with Accessibility Features                  | ⚪ Not Started     |
+| **July**      | Image Classification with Neural Networks              | ⚪ Not Started     |
+| **August**    | E-Commerce Website                                     | ⚪ Not Started     |
+| **September** | Virtual Assistant with Speech Recognition              | ⚪ Not Started     |
+| **October**   | Personal Finance Dashboard                             | ⚪ Not Started     |
+| **November**  | Health Monitoring App                                  | ⚪ Not Started     |
+| **December**  | Machine Learning Model Deployment                      | ⚪ Not Started     |
 
 ---
 
