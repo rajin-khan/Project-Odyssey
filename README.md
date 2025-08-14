@@ -15,6 +15,7 @@ This repository is my journey to:
 - Solve meaningful problems through well-designed projects.
 - Create a portfolio that stands out to recruiters.
 - Learn progressively, with manageable monthly goals tailored for a busy university schedule.
+> Please note that **future** months contain **placeholder projects**, **not** actual project ideas I will be working on.
 
 ---
 
@@ -113,15 +114,16 @@ This repository is my journey to:
 
 ---
 
-### **August: E-Commerce Website**
+### **August: Multi-Agent AI Chat Platform - MillenAI**
 
-- **Objective:** Build a simple e-commerce website for managing products and orders.
-- **Skills Covered:** Flask/Django, HTML, CSS, JavaScript.
-- **Outcome:** A basic e-commerce site with inventory and order management capabilities.
+- **Objective:** Develop a high-performance, open-source chat interface for multiple LLMs, featuring an innovative "AI Council" multi-agent system for deep, collaborative reasoning on complex topics.
+- **Skills Covered:** React, Vite, Firebase (Auth & Firestore), Tailwind CSS, Zustand, Groq API, Multi-Agent Architecture, Document Processing (OCR, PDF).
+- **Outcome:** A sophisticated, production-ready AI chat application that showcases advanced frontend skills, complex state management, and the ability to design and implement multi-agent AI systems.
 
-| **Technology Used** | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
-|----------------------|------------------------------------------------------------------------------------------------|
-| **Learning Outcome** | Learn to develop a scalable web application with database integration.                         |
+| **Technology Used** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-blueviolet?style=for-the-badge&logo=brain&logoColor=white) |
+|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Key Features**     | AI Council multi-agent system, client-side document processing, multi-model support, secure user accounts, real-time chat history.                                                                                             |
+| **Learning Outcome** | Learn to architect and build a complex, full-stack, stateful web application with a multi-agent backend, advanced file handling, and a polished user experience.                                                                                                     |
 
 ---
 
@@ -186,14 +188,14 @@ This repository is my journey to:
 
 | **Month**     | **Goal**                                               | **Status**        |
 |---------------|--------------------------------------------------------|-------------------|
-| **January**   | Publish Capstone App – *TapSense*                      | ✅ Complete     |
+| **January**   | Publish Capstone App – *TapSense*                      | ✅ Complete        |
 | **February**  | Personal Portfolio Website                             | ✅ Complete        |
 | **March**     | Real-time Drowsiness Detection System - *DOZR*         | ✅ Complete        |
 | **April**     | Synchronized Video Playback Platform - *Tessro*        | ✅ Complete        |
 | **May**       | AI-Powered Note-Taking App - *PuffNotes*               | ✅ Complete        |
-| **June**      | Conversational AI Assistant - *A.R.I.A. (Lite)*        | ✅ Complete   
+| **June**      | Conversational AI Assistant - *A.R.I.A. (Lite)*        | ✅ Complete        |
 | **July**      | Self-Hosted Media Automation Stack (Homelab)           | ✅ Complete        |
-| **August**    | E-Commerce Website                                     | ⚪ Not Started     |
+| **August**    | Multi-Agent AI Chat Platform - *MillenAI*              | 🟡 In Progress     |
 | **September** | Virtual Assistant with Speech Recognition              | ⚪ Not Started     |
 | **October**   | Personal Finance Dashboard                             | ⚪ Not Started     |
 | **November**  | Health Monitoring App                                  | ⚪ Not Started     |
