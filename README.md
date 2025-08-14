@@ -1,5 +1,3 @@
-Of course! Here is the updated `README.md` for your Project Odyssey, with the "May" project replaced by the details of your recently completed **PuffNotes** application.
-
 <div align="center">
 
 ![Repo banner](https://t4.ftcdn.net/jpg/09/61/71/25/360_F_961712520_dtIc7AQbfwBVb3uc02q9pBlI09Xl3vnv.jpg)
