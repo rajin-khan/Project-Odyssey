@@ -114,7 +114,7 @@ This repository is my journey to:
 
 ---
 
-### **August: Multi-Agent AI Chat Platform - MillenAI**
+### **August: Multi-Agent AI Chat Platform (In Progress)**
 
 - **Objective:** Develop a high-performance, open-source chat interface for multiple LLMs, featuring an innovative "AI Council" multi-agent system for deep, collaborative reasoning on complex topics.
 - **Skills Covered:** React, Vite, Firebase (Auth & Firestore), Tailwind CSS, Zustand, Groq API, Multi-Agent Architecture, Document Processing (OCR, PDF).
