@@ -168,7 +168,7 @@ This repository is my journey to:
 
 ---
 
-### **December: Research Newsletter Publication ~ [TapSense]((https://github.com/rajin-khan/curated.)) (First Issue Out)**
+### **December: Research Newsletter Publication ~ [curated.]((https://github.com/rajin-khan/curated.)) (First Issue Out)**
 
 - **Objective:** Complete and publish the next issue of **curated.**, a research-driven newsletter featuring in-depth analysis and comprehensive research reports. Focus on research, writing, design, and publication workflow for thoughtful long-form content.
 - **Skills Covered:** Research Methodology, Technical Writing, Data Analysis, Design (Layout & Typography), PDF Generation, Content Strategy, Publication Workflow.
