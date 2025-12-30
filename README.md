@@ -25,7 +25,7 @@ This repository is my journey to:
 
 ---
 
-### **January: Publish Capstone App ~ [TapSense]((https://github.com/rajin-khan/TapSense)) (Complete)**
+### **January: Publish Capstone App ~ [TapSense](https://github.com/rajin-khan/TapSense) (Complete)**
 
 - **Objective:** Polish and publish my capstone project app, [**TapSense**](https://github.com/rajin-khan/TapSense) to the App Store and Google Play Store.
 - **Skills Covered:** Flutter, Dart, App Store/Play Store Publishing.
@@ -37,7 +37,7 @@ This repository is my journey to:
 
 ---
 
-### **February: Personal Portfolio Website  ~ [Live]((https://rajinkhan.com)) (Complete)**
+### **February: Personal Portfolio Website  ~ [Live](https://rajinkhan.com) (Complete)**
 
 - **Objective:** Build a portfolio website to showcase my skills and projects.
 - **Skills Covered:** Astro framework, frontend development, blogging system, deployment on GitHub Pages and Vercel.
@@ -49,7 +49,7 @@ This repository is my journey to:
 
 ---
 
-### **March: Real-time Drowsiness Detection System  ~ [DOZR]((https://github.com/rajin-khan/DOZR)) (Complete)**
+### **March: Real-time Drowsiness Detection System  ~ [DOZR](https://github.com/rajin-khan/DOZR) (Complete)**
 
 - **Objective:** Develop a real-time drowsiness detection system to enhance road safety by analyzing drivers' eye states and facial landmarks.
 - **Skills Covered:** Python, PyTorch, OpenCV, YOLOv5, Deep Learning, Computer Vision.
@@ -62,7 +62,7 @@ This repository is my journey to:
 
 ---
 
-### **April: Real-time Synchronized Video Playback Platform with Live Chatting  ~ [Tessro]((https://github.com/rajin-khan/tessro)) (Complete)**
+### **April: Real-time Synchronized Video Playback Platform with Live Chatting  ~ [Tessro](https://github.com/rajin-khan/tessro) (Complete)**
 
 - **Objective:** Build a platform that enables real-time synchronized video playback with integrated chat and participant features for remote group watching.
 - **Skills Covered:** React, Tailwind CSS, Node.js, Express, Socket.IO, WebRTC (planned), Full-Stack Development.
@@ -75,7 +75,7 @@ This repository is my journey to:
 
 ---
 
-### **May: AI-Powered, Offline-First Note-Taking App  ~ [PuffNotes]((https://github.com/rajin-khan/puffnotes)) (Complete)**
+### **May: AI-Powered, Offline-First Note-Taking App  ~ [PuffNotes](https://github.com/rajin-khan/puffnotes) (Complete)**
 
 - **Objective:** Build a minimalist, local-first, markdown-based note-taking app designed for speed and simplicity, featuring an AI-powered **completion** function to instantly structure and expand on rough ideas.
 - **Skills Covered:** React, Vite, Tailwind CSS, File System Access API, AI API Integration (Groq), Full-Stack Development.
@@ -89,7 +89,7 @@ This repository is my journey to:
 
 ---
 
-### **June: Conversational AI Assistant  ~ [A.R.I.A.]((https://github.com/rajin-khan/ARIA-lite)) (Lite, Complete)**
+### **June: Conversational AI Assistant  ~ [A.R.I.A.](https://github.com/rajin-khan/ARIA-lite) (Lite, Complete)**
 - **Objective:** Develop a public-facing conversational AI assistant that acts as a personal knowledge base, showcasing possibilities for client side development and a sophisticated chatbot architecture with rapid API integration.
 - **Skills Covered:** React, TypeScript, Vite, Tailwind CSS, AI API Integration (Groq), Prompt Engineering.
 - **Outcome:** An intelligent and responsive chatbot with a sleek UI that can discuss technical projects, skills, and personal background, demonstrating expertise in modern, efficient web tech and AI.
@@ -103,7 +103,7 @@ This repository is my journey to:
 
 ---
 
-### **July: Self-Hosted Media Automation Stack  ~ [Homelab]((https://github.com/rajin-khan/HOMELAB)) (Always Improving)**
+### **July: Self-Hosted Media Automation Stack  ~ [Homelab](https://github.com/rajin-khan/HOMELAB) (Always Improving)**
 
 - **Objective:** Design and deploy a complete, self-hosted media automation stack for acquiring, organizing, and streaming personal media securely and privately on a macOS-based server.
 - **Skills Covered:** Homelabbing, Service Configuration (Jellyfin, Sonarr, Radarr, Prowlarr), Automation Scripting (Cron), Secure Remote Access (Tailscale), Dashboard Creation (GetHomepage), Uptime Monitoring (Uptime Kuma).
@@ -116,7 +116,7 @@ This repository is my journey to:
 
 ---
 
-### **August: Multi-Agent AI Chat Platform  ~ [MillenAI]((https://github.com/rajin-khan/MillenAI)) (Complete)**
+### **August: Multi-Agent AI Chat Platform  ~ [MillenAI](https://github.com/rajin-khan/MillenAI) (Complete)**
 
 - **Objective:** Develop a high-performance chat interface for multiple LLMs, featuring an innovative "AI Council" multi-agent system for deep, collaborative reasoning on complex topics.
 - **Skills Covered:** React, Vite, Firebase (Auth & Firestore), Tailwind CSS, Groq API, Multi-Agent Architecture, Document Processing (OCR, PDF, DOCX, Excel/CSV).
@@ -129,7 +129,7 @@ This repository is my journey to:
 
 ---
 
-### **September: AI-Powered Canvas Study Companion  ~ [CanvAID]((https://github.com/rajin-khan/CanvAID)) (MVP Built, In Progress)**
+### **September: AI-Powered Canvas Study Companion  ~ [CanvAID](https://github.com/rajin-khan/CanvAID) (MVP Built, In Progress)**
 
 - **Objective:** Complete and polish CanvAID, an AI-powered study companion that helps students organize and understand scattered Canvas LMS course materials.
 - **Skills Covered:** React, TypeScript, Vite, Tailwind CSS, Groq API, Canvas LMS API Integration.
@@ -142,7 +142,7 @@ This repository is my journey to:
 
 ---
 
-### **October: AI-Powered Developer Personal Assistant  ~ [Prism]((https://github.com/rajin-khan/Prism)) (MVP Built, In Progress)**
+### **October: AI-Powered Developer Personal Assistant  ~ [Prism](https://github.com/rajin-khan/Prism) (MVP Built, In Progress)**
 
 - **Objective:** Complete and enhance PRISM, an AI-powered developer personal assistant that analyzes GitHub activity patterns to help developers build sustainable, professional software engineering habits.
 - **Skills Covered:** React, TypeScript, Vite, Tailwind CSS, Supabase, Groq API, GitHub OAuth Integration.
@@ -155,7 +155,7 @@ This repository is my journey to:
 
 ---
 
-### **November: AI-Powered Vision Assistant for the Visually Impaired  ~ [AIris]((https://github.com/rajin-khan/AIris)) (Complete)**
+### **November: AI-Powered Vision Assistant for the Visually Impaired  ~ [AIris](https://github.com/rajin-khan/AIris) (Complete)**
 
 - **Objective:** Complete and deploy AIRIS, a wearable AI assistant that helps visually impaired users find objects and understand their surroundings through real-time audio feedback.
 - **Skills Covered:** FastAPI, Python, YOLO26s, MediaPipe, BLIP, Groq API, Whisper STT, WebSocket Streaming, React, ESP32-CAM Integration.
@@ -168,7 +168,7 @@ This repository is my journey to:
 
 ---
 
-### **December: Research Newsletter Publication ~ [curated.]((https://github.com/rajin-khan/curated.)) (First Issue Out)**
+### **December: Research Newsletter Publication ~ [curated.](https://github.com/rajin-khan/curated.) (First Issue Out)**
 
 - **Objective:** Complete and publish the next issue of **curated.**, a research-driven newsletter featuring in-depth analysis and comprehensive research reports. Focus on research, writing, design, and publication workflow for thoughtful long-form content.
 - **Skills Covered:** Research Methodology, Technical Writing, Data Analysis, Design (Layout & Typography), PDF Generation, Content Strategy, Publication Workflow.
