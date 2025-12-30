@@ -4,6 +4,8 @@
 
 # **PROJECT: ODYSSEY**
 
+> ***Project: Odyssey is complete. Scroll to the bottom for what's next.***
+
 ##### A clear and actionable plan to build essential skills and projects that showcase my strengths in web development, machine learning, and compsci in general.
 
 ---
