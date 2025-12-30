@@ -211,7 +211,7 @@ This repository is my journey to:
 
 **The Year is Complete, but the Journey never ends, does it?**
 
-###### *The cover shows Sisyphus, condemned to push his boulder up the hill for eternity. Yet, as Camus reminds us, *"one must imagine Sisyphus happy."**
+##### *The cover shows Sisyphus, condemned to push his boulder up the hill for eternity. Yet, as Camus reminds us, *"one must imagine Sisyphus happy."**
 
 *The struggle itself is meaningful. Each project completed, each skill learned, each problem solved. The boulder rolls back down, and we push it up again, not because we must, but because we choose to. This is the essence of growth: an endless ascent where the journey itself becomes the destination.*
 
